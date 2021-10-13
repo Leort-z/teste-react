@@ -12,7 +12,7 @@ export default function Select({ directorship, changeDirectorship }) {
     <Container>
       <label>Selecione uma diretoria: </label>
       <select onChange={handleDreChange}>
-        <option value='todasdirectorship'>TODAS DIRETORIAS</option>
+        <option value='todasDiretorias'>TODAS DIRETORIAS</option>
         {directorship.results.map(directorship => {
           return (
             <option key={directorship.dre} value={directorship.dre}>{directorship.diretoria}</option>
