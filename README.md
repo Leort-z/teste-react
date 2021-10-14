@@ -1,70 +1,67 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+<img width="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</div>
 
-## Available Scripts
+<h1 align="center"> teste-react</h1>
 
-In the project directory, you can run:
+<div align="center">
+<img  src="https://img.shields.io/github/repo-size/leort-z/teste-react">
+<img src="https://img.shields.io/github/last-commit/leort-z/teste-react">
+<img src="https://img.shields.io/github/contributors/leort-z/teste-react">
+<img src="https://img.shields.io/github/languages/count/leort-z/teste-react">
+</div>
 
-### `yarn start`
+<p align="center">  <a href="#sobre">Sobre</a> • <a href="#funcionalidades">Funcionalides</a> • <a href="#tecnologias">Tecnologias</a> • <a href="#como utilizar">Como utilizar</a> •  <a href="#autor">Autor</a>  </p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 💡 Sobre
+Este projeto foi desenvolvido com o intuito de testar conhecimentos técnicos e práticos envolvendo ReactJS e styled-components, o desafio consiste em consumir uma API pública da Secretaria Municipal de Educação de São Paulo e desenvolver uma tabela que reflete a quantidade de alunos por faixa e por tipo de escola.
 
-### `yarn test`
+## ⚡ Funcionalidades
+- [x] Visualização das escolas por tipo e quantidade de alunos
+- [x] Visualização do total de unidades escolares por tipo
+- [x] Filtro de resultados por diretorias
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔗 [Clique aqui para acessar o projeto online](https://leort-z.github.io/teste-react/)
 
-### `yarn build`
+![Animação](https://user-images.githubusercontent.com/57228993/137223901-5383281b-c572-4217-a4ac-2a83e582106b.gif)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ⚙ Tecnologias
+- ReactJS
+- styled-components
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Como utilizar
+### Clone o repositório
+```bash
+git clone https://github.com/Leort-z/teste-react.git
+```
+### Entre no diretório da aplicação
+```bash
+cd teste-react
+```
+### Instale as dependências
+```bash
+npm install
+```
+### Inicialize a aplicação
+```bash
+npm start
+```
+O projeto estará sendo executando em: [http://localhost:3000](http://localhost:3000).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📩 Autor
 
-### `yarn eject`
+<img src="https://avatars.githubusercontent.com/u/57228993" height="auto" width="200">
+<br/>
+ <b>Leonardo Teixeira - Desenvolvedor Front-End</b> 
+<br/>
+<br/>
+ 
+<a href="https://www.linkedin.com/in/leortz/" ><img src="https://img.shields.io/badge/-Leortz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leortz/">
+</a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<a href="mailto:leonardorteixeira@gmail.com" ><img src="https://img.shields.io/badge/-leonardorteixeira@hotmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:leonardorteixeira@gmail.com" >
+</a>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
