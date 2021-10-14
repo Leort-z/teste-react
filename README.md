@@ -12,9 +12,6 @@
 <img src="https://img.shields.io/github/languages/count/leort-z/teste-react">
 </div>
 
-<p align="center">  <a href="#sobre">Sobre</a> • <a href="#funcionalidades">Funcionalides</a> • <a href="#tecnologias">Tecnologias</a> • <a href="#como utilizar">Como utilizar</a> •  <a href="#autor">Autor</a>  </p>
-
-
 ## 💡 Sobre
 Este projeto foi desenvolvido com o intuito de testar conhecimentos técnicos e práticos envolvendo ReactJS e styled-components, o desafio consiste em consumir uma API pública da Secretaria Municipal de Educação de São Paulo e desenvolver uma tabela que reflete a quantidade de alunos por faixa e por tipo de escola.
 
