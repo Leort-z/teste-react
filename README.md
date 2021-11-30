@@ -13,7 +13,7 @@
 </div>
 
 ## 💡 Sobre
-Este projeto foi desenvolvido com o intuito de testar conhecimentos técnicos e práticos envolvendo ReactJS e styled-components, o desafio consiste em consumir uma API pública da Secretaria Municipal de Educação de São Paulo e desenvolver uma tabela que reflete a quantidade de alunos por faixa e por tipo de escola.
+Este projeto foi desenvolvido com o intuito de testar conhecimentos técnicos e práticos envolvendo ReactJS, styled-components e consumo de APIs, o desafio consiste em consumir a API pública da Secretaria Municipal de Educação de São Paulo e desenvolver uma tabela que reflete a quantidade de alunos por faixa e por tipo de escola. A parte visual e o design da aplicação também são predeterminados pelas especificações do desafio.
 
 ## ⚡ Funcionalidades
 - [x] Visualização das escolas por tipo e quantidade de alunos
