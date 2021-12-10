@@ -43,7 +43,7 @@ npm install
 ```
 ### Inicialize a aplicação
 ```bash
-npm start
+npm run start
 ```
 O projeto estará sendo executando em: [http://localhost:3000](http://localhost:3000).
 
